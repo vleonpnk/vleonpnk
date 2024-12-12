@@ -104,6 +104,24 @@
     <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>
+      <!-- Herramientas de Big Data -->
+    <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40" />
+    </a>
+      <!-- Herramientas de Google -->
+    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40" />
+    </a>
+    <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://i0.wp.com/begincodingnow.com/wp-content/uploads/2023/08/colab_logo.png?resize=260%2C160&ssl=1" alt="google colab" width="40" height="40" />
+    </a>
+    <a href="https://datastudio.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg" alt="google data studio" width="40" height="40" />
+    </a>
+      <!-- Herramientas de Microsoft -->
+    <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="microsoft azure" width="40" height="40" />
+    </a>
     <!-- Herramientas para Data Analyst -->
     </a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
