@@ -23,7 +23,7 @@
 
 - 📫 How to reach me: victorhlm97@gmail.com
 
-- ⚡ What I like to do: I'm a big fan of chess, football and coffee...and data analysis, of course.
+- ⚡ What I like to do: I'm a big fan of chess, love coffee...and data analysis, of course.
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
