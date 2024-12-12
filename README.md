@@ -68,6 +68,9 @@
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" />
     </a>
+    <a href="https://keras.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40" />
+    </a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" />
     </a>
@@ -95,8 +98,8 @@
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" alt="powerbi" width="40" height="40" />
     </a>
-    <a href="https://www.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&color=000000" alt="apache" width="40" height="40" />
+    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="apachespark" width="40" height="40" />
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
@@ -127,23 +130,14 @@
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="microsoftexcel" width="40" height="40" />
     </a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=pGHcje298xSl&format=png&color=000000" alt="microsoftword" width="40" height="40" />
+    </a>
     <!-- Herramientas para Data Engineer -->
-    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="apachespark" width="40" height="40" />
-    </a>
     <!-- Herramientas para Data Scientist -->
-    <a href="https://keras.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40" />
-    </a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" />
-    </a>
     <!-- IDE's -->
-    <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" />
-    </a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40" />
+        <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="visualstudio" width="40" height="40" />
     </a>
     <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40" />
