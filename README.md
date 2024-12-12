@@ -13,17 +13,17 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
+<h3 align="center">A passionate Data Analyst and Metalurgist Engineer</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🔭 I’m currently working on Operational roles in a Concentrator Plant, where I'm responsible for optimizing processes and improving efficiency.
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning and Artificial Intelligence, with a focus on applying these skills to real-world problems in the metalurgist industry.
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 👯 I’m looking to collaborate on Data Analysis and Software Development projects, particularly those related to process optimization, predictive maintenance and quality control.
 
-- 📫 How to reach me: **brantlauro@gmail.com**
+- 📫 How to reach me: victorhlm97@gmail.com
 
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+- ⚡ What I like to do: I'm a big fan of chess, football and coffee...and data analysis, of course.
 
 <h3 align="center">Conéctate conmigo:</h3>
 <div align="center">
@@ -31,18 +31,15 @@
 
 <!--icons and links-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/victor-le%C3%B3n-b44908172/" target="blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-  <a href="https://twitter.com/1010nishant" target="blank"><i class="fa fa-twitter" aria-hidden="true"></i></a> 
-  <a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-  <a href="https://t.me/username" target="blank"><i class="fa fa-telegram" aria-hidden="true"></i></a>
-  <a href="https://wa.me/numero" target="blank"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
-  <a href="https://www.facebook.com/username" target="blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-  <a href="https://www.youtube.com/username" target="blank"><i class="fa fa-youtube" aria-hidden="true"></i></a>
-  <a href="https://www.twitch.tv/username" target="blank"><i class="fa fa-twitch" aria-hidden="true"></i></a>
-  <a href="https://www.github.com/username" target="blank"><i class="fa fa-github" aria-hidden="true"></i></a>
-  <a href="https://www.pinterest.com/username" target="blank"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
-  <a href="https://www.reddit.com/user/username" target="blank"><i class="fa fa-reddit" aria-hidden="true"></i></a>
-  <a href="https://www.discord.com/username" target="blank"><i class="fa fa-discord" aria-hidden="true"></i></a>
+  <a href="https://www.linkedin.com/in/victor-le%C3%B3n-b44908172/" target="blank"><img src="https://img.icons8.com/color/80/000000/linkedin.png" width="40" height="40"></a>
+  <a href="https://twitter.com/1010nishant" target="blank"><img src="https://img.icons8.com/color/80/000000/twitter.png" width="40" height="40"></a> 
+  <a href="https://t.me/username" target="blank"><img src="https://img.icons8.com/color/80/000000/telegram-app.png" width="40" height="40"></a>
+  <a href="https://wa.me/numero" target="blank"><img src="https://img.icons8.com/color/80/000000/whatsapp.png" width="40" height="40"></a>
+  <a href="https://www.twitch.tv/username" target="blank"><img src="https://img.icons8.com/color/80/000000/twitch.png" width="40" height="40"></a>
+  <a href="https://www.github.com/username" target="blank"><img src="https://img.icons8.com/color/80/000000/github.png" width="40" height="40"></a>
+  <a href="https://www.pinterest.com/username" target="blank"><img src="https://img.icons8.com/color/80/000000/pinterest.png" width="40" height="40"></a>
+  <a href="https://www.reddit.com/user/username" target="blank"><img src="https://img.icons8.com/color/80/000000/reddit.png" width="40" height="40"></a>
+  <a href="https://www.discord.com/username" target="blank"><img src="https://img.icons8.com/color/80/000000/discord.png" width="40" height="40"></a>
 </p>
 
 
@@ -136,11 +133,6 @@
     </a>
 </p>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=vleonpnk&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vleonpnk&theme=react&layout=compact" />
-</p>
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -148,9 +140,9 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=vleonpnk&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vleonpnk&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
@@ -165,7 +157,7 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=vleonpnk&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
