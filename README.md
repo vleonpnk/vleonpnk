@@ -36,7 +36,6 @@
   <a href="https://t.me/username" target="blank"><img src="https://img.icons8.com/color/80/000000/telegram-app.png" width="40" height="40"></a>
   <a href="https://wa.me/numero" target="blank"><img src="https://img.icons8.com/color/80/000000/whatsapp.png" width="40" height="40"></a>
   <a href="https://www.twitch.tv/username" target="blank"><img src="https://img.icons8.com/color/80/000000/twitch.png" width="40" height="40"></a>
-  <a href="https://www.github.com/username" target="blank"><img src="https://img.icons8.com/color/80/000000/github.png" width="40" height="40"></a>
   <a href="https://www.pinterest.com/username" target="blank"><img src="https://img.icons8.com/color/80/000000/pinterest.png" width="40" height="40"></a>
   <a href="https://www.reddit.com/user/username" target="blank"><img src="https://img.icons8.com/color/80/000000/reddit.png" width="40" height="40"></a>
   <a href="https://www.discord.com/username" target="blank"><img src="https://img.icons8.com/color/80/000000/discord.png" width="40" height="40"></a>
