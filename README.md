@@ -25,7 +25,7 @@
 
 - ⚡ What I like to do: I'm a big fan of chess, football and coffee...and data analysis, of course.
 
-<h3 align="center">Conéctate conmigo:</h3>
+<h3 align="center">Connect with me:</h3>
 <div align="center">
 
 
