@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victor León <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Victor León <img height="40" src="https://www.emojiall.com/images/240/telegram/1f981.gif"></h1>
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
 
 - 🔭 I’m currently working on my **Python Course**
