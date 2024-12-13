@@ -32,12 +32,10 @@
 <!--icons and links-->
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-le%C3%B3n-b44908172/" target="blank"><img src="https://img.icons8.com/color/80/000000/linkedin.png" width="40" height="40"></a>
-  <a href="https://twitter.com/1010nishant" target="blank"><img src="https://img.icons8.com/color/80/000000/twitter.png" width="40" height="40"></a> 
+  <a href="mailto:victorhlm97@gmail.com" target="blank"><img src="https://img.icons8.com/color/80/000000/gmail.png" width="40" height="40"></a> 
   <a href="https://t.me/username" target="blank"><img src="https://img.icons8.com/color/80/000000/telegram-app.png" width="40" height="40"></a>
   <a href="https://wa.me/numero" target="blank"><img src="https://img.icons8.com/color/80/000000/whatsapp.png" width="40" height="40"></a>
   <a href="https://www.twitch.tv/username" target="blank"><img src="https://img.icons8.com/color/80/000000/twitch.png" width="40" height="40"></a>
-  <a href="https://www.pinterest.com/username" target="blank"><img src="https://img.icons8.com/color/80/000000/pinterest.png" width="40" height="40"></a>
-  <a href="https://www.reddit.com/user/username" target="blank"><img src="https://img.icons8.com/color/80/000000/reddit.png" width="40" height="40"></a>
   <a href="https://www.discord.com/username" target="blank"><img src="https://img.icons8.com/color/80/000000/discord.png" width="40" height="40"></a>
 </p>
 
@@ -62,11 +60,8 @@
     <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" />
     </a>
-    <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" />
-    </a>
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
     </a>
     <a href="https://keras.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40" />
@@ -115,16 +110,12 @@
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40" />
     </a>
-    <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://i0.wp.com/begincodingnow.com/wp-content/uploads/2023/08/colab_logo.png?resize=260%2C160&ssl=1" alt="google colab" width="40" height="40" />
-    </a>
-    <a href="https://datastudio.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg" alt="google data studio" width="40" height="40" />
-    </a>
       <!-- Herramientas de Microsoft -->
     <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="microsoft azure" width="40" height="40" />
     </a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
     <!-- Herramientas para Data Analyst -->
     </a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
@@ -136,6 +127,9 @@
     <!-- Herramientas para Data Engineer -->
     <!-- Herramientas para Data Scientist -->
     <!-- IDE's -->
+    <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" />
+    </a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="visualstudio" width="40" height="40" />
     </a>
